@@ -1,2 +1,2 @@
 # small_projects
-This repository contains all the small projects i had made💻
+This repository encompasses a collection of small projects that I have created.💻
