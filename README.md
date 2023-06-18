@@ -4,8 +4,10 @@ This repository comprises a collection of projects that I developed during my le
 <ul>
   
   <li> <h3> Catch me If You Can 👾</h3> </li>
-          Catch me If You Can, is a minimalistic Web Project Using HTML, CSS, and JavaScript. This simple yet engaging game challenges player/user to catch a moving box within a given timeframe.
+          Catch me If You Can, is a minimalistic Web Project Using HTML, CSS, and JavaScript. This simple yet engaging game challenges player/user to catch a moving box within a given timeframe.<br>
+          Live Demo :
   
+          https://catch-mee.netlify.app/
   
   <li> <h3> Dice Game 🎲</h3> </li>
             The Dice Game is a straightforward web application created using HTML, CSS, and JavaScript. In this computer it self generates the value of the two dices and decides the result between the two player.
