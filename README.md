@@ -12,7 +12,7 @@ This repository comprises a collection of projects that I developed during my le
   
   <li> <h3> Drum Kit 🥁</h3> </li>
            The Drum Kit project is an frontend endeavor crafted using a combination of JavaScript, HTML, and CSS. This interactive web application allows users to simulate playing a virtual drum kit right in their browser. With JavaScript handling interactivity using Event Listner, HTML providing the structure, and CSS bringing visual flair, the Drum Kit project offers an immersive drumming experience. <br><br>
-          Live Demo : https://catch-mee.netlify.app/
+          Live Demo : https://drum-kit-iamtanmay07.netlify.app/
           
   
   
