@@ -1,5 +1,5 @@
 
-This repository comprises a collection of projects that I developed during my learning journey.
+This repository comprises a collection of projects that I developed during my learning journey.(well I am always learning)
 
 <ul>
   
